@@ -52,6 +52,6 @@ Mainly working with **SQL, MySQL, PHP**, and exploring **data visualization**.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satish-karki-s323336)  
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-**** satish.karki.330@gmail.com  
+satish.karki.330@gmail.com  
 
 ---
