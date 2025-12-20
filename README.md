@@ -48,8 +48,13 @@ Mainly working with **SQL, MySQL, PHP**, and exploring **data visualization**.
 ---
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satish-karki-s323336)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:satish.karki.330@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat)](portfolio)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satish-karki-s323336)  
+**LinkedIn:** https://www.linkedin.com/in/satish-karki-s323336  
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satish.karki.330@gmail.com)  
+**Email:** satish.karki.330@gmail.com  
+
+
 
 ---
