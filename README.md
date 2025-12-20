@@ -23,11 +23,6 @@ Mainly working with **SQL, MySQL, PHP**, and exploring **data visualization**.
 
 ---
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sateesh36&layout=compact&theme=radical)
-
----
-
 ## 📂 Key Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -41,9 +36,14 @@ Mainly working with **SQL, MySQL, PHP**, and exploring **data visualization**.
 ---
 
 ## 🌱 Learning & Growth
-- Advanced SQL for analytics
-- Python (Pandas, Matplotlib) for Data Science
-- Power BI & Tableau for Business Intelligence and visualization.
+- Continuing to advance **Data Analytics skills** with **SQL, PostgreSQL, MySQL**  
+- Improving **Data Visualization** skills with **Power BI, Tableau, Excel**  
+- Learning **Python for data analysis**: Pandas, NumPy, Matplotlib, Seaborn  
+- Exploring **Advanced Excel**: PivotTables, Power Query, formulas, and dashboards  
+- Gaining proficiency in **Laravel & PHP** for backend development  
+- Practicing **Git & GitHub** for version control and collaboration  
+- Learning **Data Cleaning, Data Modeling, and Dashboard Design**
+- Aspiring to pursue **Data Science in the future**, using **Data Analytics** as my entry point to build strong foundations
 
 ---
 
