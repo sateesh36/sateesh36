@@ -21,8 +21,6 @@ Mainly working with **SQL, MySQL, PHP**, and exploring **data visualization**.
 ---
 
 ## 📊 GitHub Stats
-![Satish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sateesh36&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sateesh36&layout=compact&theme=radical)
 
 ---
@@ -30,36 +28,25 @@ Mainly working with **SQL, MySQL, PHP**, and exploring **data visualization**.
 ## 📂 Key Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Dashboard Project](link-to-dashboard) | Interactive dashboards for data analytics | SQL, MySQL, PHP, JS |
+| [Excel Dashboard Projects](https://github.com/sateesh36/Excel_Project) | Interactive dashboards for data analytics | PostgreSQL, Excel, Powerbi |
+| [SQL Bootcamp Exercises](https://github.com/sateesh36/The-Complete-SQL-Bootcamp-Go-from-Zero-to-Hero-Udemy) | Top Udemy Course on SQL  | PostgreSQL |
 | [Helmetify - Helmet Store](https://github.com/sateesh36/Helmetify---A-helmet-store) | Full-stack e-commerce web app | PHP, MySQL, JS, Bootstrap |
-| [SQL Reporting Tool](link) | Automated reports and queries for business insights | SQL, MySQL |
-| [Data Visualization Project](link) | Data analysis & visualization dashboards | SQL, JS, Chart.js |
-| [Web Apps Collection](link) | Small web apps showcasing front-end & backend integration | PHP, JS, Bootstrap |
+| [SubhaLabh – Venue & Pandit Booking System](https://github.com/sateesh36/SubhaLabh-Venue-and-pandit-booking-system) | Venue booking and pandit recommendation system with backend and frontend integration for event services. | Django (Python), JavaScript, SQLite |
+| [Tourify](https://github.com/sateesh36/Tourify) | Web project (travel / booking related) featuring basic layout & functionality for tour management. | HTML, CSS, JavaScript, Backend logic |
+| [Animal‑Adopt](https://github.com/sateesh36/Animal-Adopt) | Pet adoption platform with login & browsing for adoptable animals (PHP, JS, CSS). | PHP, MySQL (or SQL), JavaScript, CSS |
 
 ---
 
 ## 🌱 Learning & Growth
 - Advanced SQL for analytics
 - Python (Pandas, Matplotlib) for Data Science
-- Power BI & Tableau for Business Intelligence
+- Power BI & Tableau for Business Intelligence and visualization.
 
 ---
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satish-karki-s323336)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat)](your-portfolio-link)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:satish.karki.330@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat)](portfolio)
 
 ---
-
-### 💡 Tips for Extra Professional Look:
-1. Add **screenshots or GIFs** of dashboards in README or project repos.
-2. Commit regularly to **show an active contribution graph**.
-3. Use **badges for technologies** like above to make it visually appealing.
-4. Keep your pinned repos **focused on Data Analytics projects** first.
-
----
-
-If you want, I can **also make a version where your Dashboard project is highlighted with a GIF and a small description card**—this one will make it **super recruiter-friendly for analytics jobs**.  
-
-Do you want me to make that version too?
