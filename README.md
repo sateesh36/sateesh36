@@ -49,7 +49,7 @@ Mainly working with **SQL, MySQL, PHP**, and exploring **data visualization**.
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satish-karki-s323336)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](satish.karki.330@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:satish.karki.330@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat)](portfolio)
 
 ---
