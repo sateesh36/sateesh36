@@ -6,7 +6,7 @@ Mainly working with **SQL, MySQL, PHP**, and exploring **data visualization**.
 
 ---
 
-## 🔧 Skills & Tools
+## Skills & Tools
 
 [![SQL](https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.w3schools.com/sql/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -23,7 +23,7 @@ Mainly working with **SQL, MySQL, PHP**, and exploring **data visualization**.
 
 ---
 
-## 📂 Key Projects
+## Key Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Excel Dashboard Projects](https://github.com/sateesh36/Excel_Project) | Interactive dashboards for data analytics | PostgreSQL, Excel, Powerbi |
@@ -35,7 +35,7 @@ Mainly working with **SQL, MySQL, PHP**, and exploring **data visualization**.
 
 ---
 
-## 🌱 Learning & Growth
+## Learning & Growth
 - Continuing to advance **Data Analytics skills** with **SQL, PostgreSQL, MySQL**  
 - Improving **Data Visualization** skills with **Power BI, Tableau, Excel**  
 - Learning **Python for data analysis**: Pandas, NumPy, Matplotlib, Seaborn  
