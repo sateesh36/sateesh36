@@ -25,7 +25,7 @@ Mainly working with **SQL, MySQL, PHP**, and exploring **data visualization**.
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Excel Dashboard Projects](https://github.com/sateesh36/Excel_Project) | Interactive dashboards for data analytics | PostgreSQL, Excel, Powerbi |
-| [SQL Data Analytics Project (Retail) ]([https://github.com/sateesh36/Excel_Project](https://github.com/sateesh36/sql-data-analytics-project-retails)) | Advance data analytics project | sql server, Exploratory Analysis, business intelligence |
+| [SQL Data Analytics Project (Retail) ](https://github.com/sateesh36/sql-data-analytics-project-retails) | Advance data analytics project | sql server, Exploratory Analysis, business intelligence |
 | [SQL Practice Portfolio](https://github.com/sateesh36/SQL-Practice-Portfolio) | SQL Solved  | PostgreSQL | | SQL Server | | MySql |
 | [Helmetify - Helmet Store](https://github.com/sateesh36/Helmetify---A-helmet-store) | Full-stack e-commerce web app | PHP, MySQL, JS, Bootstrap |
 | [SubhaLabh – Venue & Pandit Booking System](https://github.com/sateesh36/SubhaLabh-Venue-and-pandit-booking-system) | Venue booking and pandit recommendation system with backend and frontend integration for event services. | Django (Python), JavaScript, SQLite |
