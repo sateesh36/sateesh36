@@ -2,7 +2,7 @@
 **Aspiring Data Analyst | Dashboard & Web Projects | SQL Enthusiast**
 
 I build **interactive dashboards**, analyze data, and create web solutions that help businesses make data-driven decisions.  
-Mainly working with **SQL, MySQL, PHP**, and exploring **data visualization**.
+Mainly working with **SQL, Excel, PowerBI**.
 
 ---
 
